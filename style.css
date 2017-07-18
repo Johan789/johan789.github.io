@@ -15,7 +15,7 @@ width:1287px;
 height:33px;
 margin:0 auto;
 position:relative;
-background:#0e1cda;
+background:#00ff54;
 }
 
 #header2{
@@ -68,3 +68,6 @@ position:relative;
 background:#ffffff;
 border:5px solid #8cadde;
 }
+
+footer {
+ background:#00ff54;
